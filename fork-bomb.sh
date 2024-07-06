@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/usr/bin/env bash
 
 # define a function called () which calls itself
 # pipes itself to itself and put itself int he background
